@@ -88,8 +88,7 @@
                 "TYPING_LETTER":
                 [
                     "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/letter_2.wav"
                 ],
                 "TYPING_SPACE":
                 [
